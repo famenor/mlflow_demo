@@ -3,6 +3,7 @@ import numpy as np
 from tensorflow import keras
 
 
+
 EPOCHS=5
 BATCH_SIZE=128
 VERBOSE=1
