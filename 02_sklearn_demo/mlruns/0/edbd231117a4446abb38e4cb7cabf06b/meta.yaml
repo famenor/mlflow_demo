@@ -1,0 +1,15 @@
+artifact_uri: file:///media/armando/Neptuno/git/mlflow_demo/02_sklearn_demo/mlruns/0/edbd231117a4446abb38e4cb7cabf06b/artifacts
+end_time: 1629137013727
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: edbd231117a4446abb38e4cb7cabf06b
+run_uuid: edbd231117a4446abb38e4cb7cabf06b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1629137011936
+status: 3
+tags: []
+user_id: armando
