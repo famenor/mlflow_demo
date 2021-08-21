@@ -1,0 +1,10 @@
+name: project_demo
+
+conda_env: conda.yaml
+
+entry_points:
+  main:
+    parameters:
+      param_epochs: {type: int}
+      param_drop: {type: float, default: 0.3}
+    command: "python model_keras.py {param_epochs} {param_drop}"

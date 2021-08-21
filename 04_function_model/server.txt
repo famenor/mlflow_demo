@@ -1,0 +1,5 @@
+mlflow models serve -m model_word_model/ --no-conda
+
+
+
+curl http://127.0.0.1:5000/invocations -H 'Content-Type: application/json; format=pandas-records' -d '[{"str_1": "mexico", "str_2": "mexico"}, {"str_1": "francia", "str_2": "frambus"}, {"str_1": "japon", "str_2": "tokio"}]'

@@ -1,0 +1,15 @@
+artifact_uri: file:///media/armando/Neptuno/git/mlflow_demo/03_keras_demo/mlruns/0/ae38db652ee24f2b8d99fa67035ea16b/artifacts
+end_time: 1629405607444
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+name: ''
+run_id: ae38db652ee24f2b8d99fa67035ea16b
+run_uuid: ae38db652ee24f2b8d99fa67035ea16b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1629405603158
+status: 3
+tags: []
+user_id: armando
