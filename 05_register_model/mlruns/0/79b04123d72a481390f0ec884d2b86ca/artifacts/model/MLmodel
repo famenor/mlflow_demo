@@ -1,3 +1,4 @@
+artifact_path: model
 flavors:
   python_function:
     cloudpickle_version: 1.6.0
@@ -5,4 +6,5 @@ flavors:
     loader_module: mlflow.pyfunc.model
     python_model: python_model.pkl
     python_version: 3.9.6
-utc_time_created: '2021-08-21 17:45:00.464915'
+run_id: 79b04123d72a481390f0ec884d2b86ca
+utc_time_created: '2021-08-21 17:50:10.281785'
